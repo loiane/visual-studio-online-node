@@ -1,0 +1,13 @@
+{
+  "name": "Ball Park Tracker",
+  "appPort": 3000,
+  "extensions": [
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "ms-vscode.node-debug2",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "eg2.vscode-npm-script"
+  ],
+  "postCreateCommand": "bash .devcontainer/postCreate.sh"
+}
