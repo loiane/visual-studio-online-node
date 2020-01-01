@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 18,
+  
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+  
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": false,
+    "prettier.printWidth": 100,
+  
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false
+  }
