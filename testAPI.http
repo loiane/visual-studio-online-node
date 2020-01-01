@@ -1,0 +1,27 @@
+http://localhost:3000/api/contact
+
+###
+
+GET http://localhost:3000/api/contact/5e0ce5c57afd9b6ead5a87f1
+
+###
+
+POST http://localhost:3000/api/contact HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Java"
+}
+
+###
+
+PUT http://localhost:3000/api/contact/5e0ce5c57afd9b6ead5a87f1 HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Java OO"
+}
+
+###
+
+DELETE http://localhost:3000/api/contact/5e0ce5c57afd9b6ead5a87f1
