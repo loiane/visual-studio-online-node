@@ -1,5 +1,5 @@
 {
-  "name": "Ball Park Tracker",
+  "name": "CRUD Node",
   "appPort": 3000,
   "extensions": [
     "EditorConfig.EditorConfig",
